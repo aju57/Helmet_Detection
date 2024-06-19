@@ -1,0 +1,14 @@
+names:
+- With helmet
+- Without helmet
+- Bike
+nc: 3
+roboflow:
+  license: CC BY 4.0
+  project: helmet-detection-nra77
+  url: https://universe.roboflow.com/aju57/helmet-detection-nra77/dataset/1
+  version: 1
+  workspace: aju57
+test: test/images
+train: train/images
+val: valid/images
